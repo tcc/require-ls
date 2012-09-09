@@ -1,0 +1,19 @@
+{
+    "name": "ls",
+    "description": "An AMD loader plugin for LiveScript",
+    "categories": [
+        "Loader plugins",
+        "Parsers & Compilers"
+    ],
+    "version": "0.1.0",
+    "dependencies": {
+        "live-cript": ">=1.0.0"
+    },
+    "main": "ls.js",
+    "volo": {
+        "url": "https://raw.github.com/tcc/require-ls/{version}/ls.js",
+        "dependencies": {
+            "livescript": "gkz/livescript"
+        }
+    }
+}
