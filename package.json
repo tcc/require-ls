@@ -5,9 +5,9 @@
         "Loader plugins",
         "Parsers & Compilers"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "dependencies": {
-        "live-cript": ">=1.0.0"
+        "live-script": ">=1.0.0"
     },
     "main": "ls.js",
     "volo": {
